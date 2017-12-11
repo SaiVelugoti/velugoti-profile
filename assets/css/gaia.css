@@ -131,11 +131,16 @@ p {
 }
 
 .contact{
-  color: white!important
+  color: #049fd9!important
 }
 
 .contact:hover{
-  color: #049fd9!important
+  color: white!important
+}
+
+.work:hover{
+  color:#049fd9!important;
+
 }
 
 p,
